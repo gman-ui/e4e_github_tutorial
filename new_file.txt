@@ -1,10 +1,18 @@
 Section 1
 
 Section 2
+<<<<<<< HEAD
+=======
+John made this change
+>>>>>>> john
 
 Section 3
 
 Section 4
+<<<<<<< HEAD
 
 Section 5
 Kate made this change
+
+Section 6
+John made this section
